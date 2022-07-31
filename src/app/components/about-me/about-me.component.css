@@ -1,0 +1,34 @@
+div{
+    
+    text-align: center;
+    }
+.acerca{
+    background: rgb(49,187,236);
+    background: linear-gradient(55deg, rgba(49,187,236,1) 0%, rgba(43,79,198,1) 100%);
+    border-bottom-right-radius: 50px;
+    border-top-left-radius: 10px;
+}
+#perfil{
+border-radius: 50%;
+position: relative;
+width: 120px;
+height: 120px;
+margin-top: -50px;
+
+
+}
+#datos{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding: 20px;
+    align-self: center;
+    font-weight: bold;
+    font-size: large;
+    margin-top: 0px;
+}
+#about{
+    margin-top: -40px;
+}
+#titulo{
+    color: aliceblue;
+}
+
